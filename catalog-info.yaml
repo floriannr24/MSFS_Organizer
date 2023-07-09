@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: msfsAddonOrganizer
+  annotations:
+    github.com/project-slug: floriannr24/msfsAddonOrganizer
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Florian Niedermeier
